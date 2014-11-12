@@ -19,7 +19,7 @@ public class Lab1_q5 {
 		double root2 = (-b - Math.sqrt( (Math.pow(b, 2) - 4*a*C) )) / 2*a;
 		
 		output.setText("Root 1: " + root1 + "\nRoot 2: " + root2);
-		
+		//lelelelelleleleelelelellel XdXdXdDXXDxxdxXd FUCK GITHUB BRUH
 		//output
 		JOptionPane.showMessageDialog(null, output, "Quadratic Equation", JOptionPane.INFORMATION_MESSAGE);
 
